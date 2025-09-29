@@ -18,7 +18,7 @@
 ![aiosend](https://img.shields.io/badge/aiosend-000000?style=for-the-badge&logo=.) ![aiogram](https://img.shields.io/badge/aiogram-000000?style=for-the-badge&logo=.) ![LibGram](https://img.shields.io/badge/LibGram-000000?style=for-the-badge&logo=.)
 
 ---
-##My Statistics 
+## My Statistics 
 
 ![Nefor's GitHub stats](https://github-readme-stats.vercel.app/api?username=NEFORCEO&show_icons=true&theme=tokyonight)
 
