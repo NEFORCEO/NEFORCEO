@@ -4,16 +4,16 @@
   </a>
 
 
-# 👋Hello Guys,i'm nefor 
+> # 👋Hello Guys,i'm nefor 
 
 ### 👤Information 
 **Country** - 🇷🇺**Russia**
 
 **My portfolio** - 🖐
 [Click](https://t.me/clubnefor)
----
 
-> ## 💻languages 
+---
+## 💻languages 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5) 
