@@ -7,13 +7,13 @@
 # 👋Hello Guys,i'm nefor 
 
 > ## 💻languages 
-
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5) 
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white) 
 
+## 🛠️Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![CryptoPay](https://img.shields.io/badge/CryptoPay-000000?style=for-the-badge&logo=bitcoin) 
+![aiosend](https://img.shields.io/badge/aiosend-000000?style=for-the-badge&logo=fastapi) ![aiogram](https://img.shields.io/badge/aiogram-000000?style=for-the-badge&logo=telegram) ![LibGram](https://img.shields.io/badge/LibGram-000000?style=for-the-badge&logo=telegram)
 
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
