@@ -15,5 +15,5 @@
 
 ## 🛠️Tools
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![CryptoPay](https://img.shields.io/badge/CryptoPay-000000?style=for-the-badge&logo=.) 
-![aiosend](https://img.shields.io/badge/aiosend-000000?style=for-the-badge&logo=.) ![aiogram](https://img.shields.io/badge/aiogram-000000?style=for-the-badge&logo=aiogram) ![LibGram](https://img.shields.io/badge/LibGram-000000?style=for-the-badge&logo=json)
+![aiosend](https://img.shields.io/badge/aiosend-000000?style=for-the-badge&logo=.) ![aiogram](https://img.shields.io/badge/aiogram-000000?style=for-the-badge&logo=.) ![LibGram](https://img.shields.io/badge/LibGram-000000?style=for-the-badge&logo=.)
 
