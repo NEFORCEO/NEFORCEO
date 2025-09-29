@@ -27,7 +27,7 @@
 ---
 ## My Statistics 
 **In the diagram below, you can see my statistics**
-![Nefor's GitHub stats](https://github-readme-stats.vercel.app/api?username=NEFORCEO&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=neforceo&show_icons=true&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=000000)
 
 ---
 
