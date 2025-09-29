@@ -14,6 +14,6 @@
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 ## 🛠️Tools
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![CryptoPay](https://img.shields.io/badge/CryptoPay-000000?style=for-the-badge&logo=bitcoin) 
-![aiosend](https://img.shields.io/badge/aiosend-000000?style=for-the-badge&logo=fastapi) ![aiogram](https://img.shields.io/badge/aiogram-000000?style=for-the-badge&logo=aiogram) ![LibGram](https://img.shields.io/badge/LibGram-000000?style=for-the-badge&logo=json)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![CryptoPay](https://img.shields.io/badge/CryptoPay-000000?style=for-the-badge&logo=.) 
+![aiosend](https://img.shields.io/badge/aiosend-000000?style=for-the-badge&logo=.) ![aiogram](https://img.shields.io/badge/aiogram-000000?style=for-the-badge&logo=aiogram) ![LibGram](https://img.shields.io/badge/LibGram-000000?style=for-the-badge&logo=json)
 
