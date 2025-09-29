@@ -33,4 +33,4 @@
 
 ## My Progress 
 **This diagram will show in which languages i create repositories**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NEFORCEO&theme=tokyonight)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neforceo&title_color=00ff00&text_color=ffffff&bg_color=000000)
