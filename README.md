@@ -19,7 +19,11 @@
 
 ---
 ## My Statistics 
-
+**In the diagram below, you can see my statistics**
 ![Nefor's GitHub stats](https://github-readme-stats.vercel.app/api?username=NEFORCEO&show_icons=true&theme=tokyonight)
 
+---
+
+## My Progress 
+*This diagram will show in which languages I create repositories***
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NEFORCEO&theme=tokyonight)
