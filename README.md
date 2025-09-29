@@ -7,8 +7,9 @@
 # 👋Hello Guys,i'm nefor 
 
 ### 👤Information 
-**Country** - 🇷🇺**Russia**
-
+• **Country** - 🇷🇺**Russia**
+• My portfolio - 🖐[Click](https://t.me/clubnefor)
+---
 
 > ## 💻languages 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
