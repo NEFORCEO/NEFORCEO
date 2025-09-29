@@ -4,7 +4,7 @@
   </a>
 
 
-> # 👋Hello Guys,i'm nefor 
+# 👋Hello Guys,i'm nefor 
 
 ### 👤Information 
 **Country** - 🇷🇺**Russia**
@@ -13,7 +13,7 @@
 [Click](https://t.me/clubnefor)
 
 ---
-## 💻languages 
+>## 💻languages 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5) 
@@ -32,5 +32,5 @@
 ---
 
 ## My Progress 
-**This diagram will show in which languages I create repositories**
+**This diagram will show in which languages i create repositories**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NEFORCEO&theme=tokyonight)
