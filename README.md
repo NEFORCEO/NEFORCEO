@@ -7,8 +7,8 @@
 # 👋Hello Guys,i'm nefor 
 
 ### 👤Information 
-• **Country** - 🇷🇺**Russia**
-• My portfolio - 🖐[Click](https://t.me/clubnefor)
+**Country** - 🇷🇺**Russia**
+**My portfolio** - 🖐[Click](https://t.me/clubnefor)
 ---
 
 > ## 💻languages 
