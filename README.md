@@ -58,17 +58,7 @@
 ### 🔹 FastAPI To-Do API
 Basic REST API using FastAPI to manage tasks.  
 ![FastAPI GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)  
-[Source](https://github.com/neforceo/Todo-list.git)
-
-### 🔹 Telegram Bot Starter
-Simple Python Telegram bot (learning async & FastAPI integration).  
-![Bot GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
-[Source](https://github.com/neforceo/Telegram-Bot-Starter)
-
-### 🔹 Async Automation Scripts
-Python async scripts to automate daily tasks.  
-![Automation GIF](https://media.giphy.com/media/3orieUe1P4zMZ0bVpu/giphy.gif)  
-[Source](https://github.com/neforceo/Automation-Scripts)
+[Source](https://github.com/NEFORCEO/ToDoList)
 
 </div>
 
