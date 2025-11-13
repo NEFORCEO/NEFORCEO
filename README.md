@@ -58,7 +58,7 @@
 ### 🔹 FastAPI To-Do API
 Basic REST API using FastAPI to manage tasks.  
 ![FastAPI GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)  
-[Source](https://github.com/neforceo/FastAPI-Todo)
+[Source](https://github.com/neforceo/Todo-list.git)
 
 ### 🔹 Telegram Bot Starter
 Simple Python Telegram bot (learning async & FastAPI integration).  
