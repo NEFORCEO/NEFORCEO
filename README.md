@@ -144,7 +144,7 @@ class Developer:
         return f"{self.name} is building backend systems with {', '.join(self.stack)}..."
 
 me = Developer()
-print(me.work)
+print(me)
 ```
 
 <div align="center">
