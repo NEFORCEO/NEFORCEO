@@ -148,6 +148,7 @@ print(me)
 ```
 
 
+
 <div align="center">
 
 <br>
@@ -158,15 +159,17 @@ print(me)
 
 <h2>⚡ Stay curious.<br>Keep coding.<br>Build cool things.</h2>
 
-<p style="font-size: 18px;">
+<p align="center" style="font-size: 17px; max-width: 500px;">
 Пусть твой код будет чистым, проекты — мощными,  
-а путь разработчика — таким же ярким, как этот логотип Python.
+а путь разработчика — ярким и уверенным.
 </p>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/main/src/wave.svg" width="100%" />
+<hr style="border: 0; height: 1px; background: #333; margin: 25px 0;" />
 
-<h3>⭐ Enjoy my work — and see you among the commits.</h3>
+<h3>⭐ Enjoy my work —<br>and see you among the commits.</h3>
+
+<br>
 
 </div>
