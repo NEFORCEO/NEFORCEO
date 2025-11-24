@@ -115,18 +115,7 @@ Simple, clean REST backend for task management.
 Backend utilities, automations, micro APIs  
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
 
-</div>
-
----
-
-# 🧭 Roadmap (v2.0)
-
-- [ ] Master async Python  
-- [ ] Build scalable microservices  
-- [ ] Add Redis + Celery workers  
-- [ ] Learn CI/CD pipelines  
-- [ ] Deploy production FastAPI services  
-- [ ] Contribute to open-source  
+</div>  
 
 ---
 
@@ -153,20 +142,9 @@ print(me)
 
 <br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="110" alt="python logo" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="90" alt="python logo" />
 
 <br><br>
-
-<h2>⚡ Stay curious.<br>Keep coding.<br>Build cool things.</h2>
-
-<p align="center" style="font-size: 17px; max-width: 500px;">
-Пусть твой код будет чистым, проекты — мощными,  
-а путь разработчика — ярким и уверенным.
-</p>
-
-<br>
-
-<hr style="border: 0; height: 1px; background: #333; margin: 25px 0;" />
 
 <h3>⭐ Enjoy my work —<br>and see you among the commits.</h3>
 
