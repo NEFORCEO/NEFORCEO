@@ -22,25 +22,25 @@
 - 🇷🇺 **From Russia**
 - 🐍 Started learning **Python in 2023**
 - ⚡ Started learning **FastAPI in 2025**
-- 🧩 Now I already build my own backend projects  
-- 📦 Focus: Backend APIs, async, automation, clean architecture  
-- 🐋 Learning to containerize everything with Docker  
-- 🔥 Passionate about building solid, scalable backend systems  
+- 🔥 Already building my own backend projects  
+- 🧩 Focus: backend architecture, async, automation  
+- 🐋 Learning Docker, production patterns  
+- 📦 Writing clean & structured backend code  
 
 ---
 
-# 🧬 Skills Matrix
+# 🧬 Skills (Logos + Stars)
 
 <div align="center">
 
-| Area | Level | Notes |
-|------|-------|--------|
-| **Python** | 🟩🟩🟩🟩⬜ | OOP, typing, async, clean code |
-| **FastAPI** | 🟩🟩🟩⬜⬜ | JWT, routers, middleware, services |
-| **SQLAlchemy 2.0** | 🟩🟩🟩⬜⬜ | Async ORM, models, sessions |
-| **PostgreSQL** | 🟩🟩🟩⬜⬜ | Queries, indexing, relations |
-| **Docker** | 🟩🟩🟩⬜⬜ | Containers, images, compose |
-| **Linux** | 🟩🟩⬜⬜⬜ | Bash, processes, permissions |
+| Logo | Skill | Level | Description |
+|------|-------|--------|-------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | **Python** | ⭐⭐⭐⭐☆ | OOP, async, typing, clean code |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/> | **FastAPI** | ⭐⭐⭐⭐☆ | Routers, JWT, middleware, services |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40"/> | **SQLAlchemy 2.0** | ⭐⭐⭐☆☆ | Async ORM, models, sessions |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> | **PostgreSQL** | ⭐⭐⭐☆☆ | Queries, indexes, relations |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> | **Docker** | ⭐⭐⭐☆☆ | Containers, compose, images |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> | **Linux** | ⭐⭐☆☆☆ | Shell, permissions, process basics |
 
 </div>
 
@@ -48,15 +48,16 @@
 
 # 🧠 Timeline
 
+
 ---
 
 # 🧪 What I'm Working On Now
 
-- 🚀 Пишу проекты на FastAPI  
-- 🧩 Изучаю слоистую архитектуру (routers → services → repositories)  
-- ⚡ Прокачиваю асинхронность в Python  
-- 🐋 Настраиваю Docker для проектов  
-- 🛠️ Работаю над чистым кодом, логикой, структурой  
+- 🚀 Writing backend FastAPI services  
+- ⚡ Learning deep async patterns  
+- 🐋 Dockerizing every project  
+- 🛠️ Building clean architecture (routers → services → repos)  
+- 🧩 Writing production-ready Python code  
 
 ---
 
@@ -67,7 +68,7 @@
 ### **Backend**
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000?style=for-the-badge&logo=databricks)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000?style=for-the-badge&logo=sqlalchemy)
 
 ### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
@@ -102,16 +103,16 @@
 <div align="center">
 
 ## 🔹 FastAPI To-Do API  
-Simple & clean REST backend for managing tasks.
+Simple, clean REST backend for task management.
 
 <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="400"/>
 
-🔗 **Source:** https://github.com/NEFORCEO/ToDoList  
+🔗 **Source:** https://github.com/NEFORCEO/ToDoList
 
 ---
 
 ## 🔹 New Projects Coming Soon  
-Backend tools, automation scripts, micro APIs  
+Backend utilities, automations, micro APIs  
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
 
 </div>
@@ -120,16 +121,16 @@ Backend tools, automation scripts, micro APIs
 
 # 🧭 Roadmap (v2.0)
 
-- [ ] Become strong in async Python  
+- [ ] Master async Python  
 - [ ] Build scalable microservices  
 - [ ] Add Redis + Celery workers  
-- [ ] Learn CI/CD  
-- [ ] Deploy production FastAPI projects  
+- [ ] Learn CI/CD pipelines  
+- [ ] Deploy production FastAPI services  
 - [ ] Contribute to open-source  
 
 ---
 
-# 🖥️ Code Preview (Terminal Style)
+# 🖥️ Code Preview
 
 ```python
 class Developer:
@@ -139,9 +140,17 @@ class Developer:
         self.started_fastapi = 2025
         self.stack = ["Python", "FastAPI", "PostgreSQL", "Docker"]
 
-    def work(self):
+    def __str__(self):
         return f"{self.name} is building backend systems with {', '.join(self.stack)}..."
 
 me = Developer()
-print(me.work())
+print(me.work)
 ```
+
+<div align="center">
+
+## ⭐ Enjoy my work?  
+### Тогда поддержи репозиторий звездой — это мотивирует делать больше крутых проектов!
+
+</div>
+
