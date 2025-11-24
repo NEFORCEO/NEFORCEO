@@ -147,15 +147,26 @@ me = Developer()
 print(me)
 ```
 
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="90" alt="python logo"/>
+<br>
 
-## ⭐ Enjoy my work?
-Если тебе нравится то, что я делаю —  
-**поддержи мой репозиторий звездой!**  
-Это мотивирует делать ещё больше крутых проектов 🚀
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="110" alt="python logo" />
 
+<br><br>
+
+<h2>⚡ Stay curious.<br>Keep coding.<br>Build cool things.</h2>
+
+<p style="font-size: 18px;">
+Пусть твой код будет чистым, проекты — мощными,  
+а путь разработчика — таким же ярким, как этот логотип Python.
+</p>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/main/src/wave.svg" width="100%" />
+
+<h3>⭐ Enjoy my work — and see you among the commits.</h3>
 
 </div>
-
