@@ -1,28 +1,14 @@
-<h1>Hi, I'm White Nefor 👋</h1>
-<p><strong>(Nikita Nefor)</strong></p>
+Hello, I'm White Nefor(Nikita Nefor)
 
-<p>
-💻 I am a web application and Telegram bot developer from the Russian Federation 🇷🇺
-</p>
+I am a web application and Telegram bot developer from the Russian Federation 🇷🇺
 
-<p>
-🚀 I build applications and bots using a modern and up-to-date technology stack.
-</p>
+I build applications and bots using a modern and up-to-date technology stack 🎩
 
-<h2>🛠 Technologies</h2>
-<p>
 🐍 Currently, I write code in the <strong>Python</strong> programming language, using frameworks and tools such as:
-<br>
-⚡ <strong>FastAPI, Aiogram, SQLModel, Pydantic</strong>, and many others.
-</p>
+⚡FastAPI, Aiogram, SQLModel, Pydantic and many others
 
-<h2>🎯 Goal</h2>
-<p>
-🌍 At the moment, I want to develop a project that can help a large number of users.
-</p>
 
-<h2>🔗 Links</h2>
-<ul>
-    <li>🌐 <a href="https://neforceo.github.io/NEFORDEV/">Website</a></li>
-    <li>✈️ <a href="https://t.me/NEFORCEO">Telegram</a></li>
-</ul>
+🌍 At the moment, I want to develop a project that can help a large number of users
+
+My site <a href="https://neforceo.github.io/NEFORDEV/">Website</a>
+Connect <a href="https://t.me/NEFORCEO">Telegram</a>
