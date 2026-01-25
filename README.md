@@ -1,4 +1,4 @@
-# 👋 Hello,i'm White Nefor(**Nikita Nefor**) Software Developer
+### 👋 Hello,i'm White Nefor(**Nikita Nefor**) Software Developer
 
 **📍 Russia** | **💻 Python Backend & Bot Developer**
 
