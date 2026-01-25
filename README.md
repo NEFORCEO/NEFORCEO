@@ -1,15 +1,17 @@
-👋 Hello, I'm White Nefor (**Nikita Nefor**)
+# 👋 Hello,i'm White Nefor(**Nikita Nefor**) Software Developer
 
-I am a **web application** and **Telegram bot developer** from the **Russian Federation 🇷🇺**
+**📍 Russia** | **💻 Python Backend & Bot Developer**
 
-I build applications and bots using a modern and **up-to-date technology stack** 🎩
+## 🛠 Tech Stack
+- **Backend:** FastAPI, Flask
+- **Bots:** Aiogram 3.x
+- **Data:** SQLModel, PostgreSQL, Pydantic
+- **Infrastructure:** Docker, Nginx, Redis
 
-🐍 Currently, I write code in the **Python** programming language, using frameworks and tools such as:
-⚡**FastAPI, Aiogram, SQLModel, Pydantic and many others**
+## 🎯 Goal
+Developing useful products for a wide audience
 
-
-🌍 **At the moment, I want to develop a project that can help a large number of users**
-
-My site <a href="https://neforceo.github.io/NEFORDEV/">Website</a>
-
-Connect <a href="https://t.me/NEFORCEO">Telegram</a>
+## 🔗 Contacts
+- [Portfolio](https://neforceo.github.io/NEFORDEV/)
+- [Telegram](https://t.me/NEFORCEO)
+- [GitHub](https://github.com/neforceo)
