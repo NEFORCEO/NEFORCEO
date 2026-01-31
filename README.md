@@ -1,30 +1,18 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1400" height="500"></p>
 
+———
 
 ### 👋 Hi, I'm White Nefor (**Nikita Nefor**)
 **Software Developer**
 
----
-
 📍 **Russia** | 💻 **Python Backend & Bot Developer**
 
 
----
-
 ## 🛠 Tech Stack
 
-### 💻 Backend
-- **FastAPI**, Flask  
-- **SQLModel**, **Pydantic**
+My technical stack includes the following technologies. I actively learn and explore new tools on a daily basis, so this list is constantly evolving.
 
-### 🤖 Bots
-- **Aiogram 3.x**
-
-### 💼 Data
-- **PostgreSQL**, Redis
-
-### 📦 Infrastructure
-- **Docker**, Nginx
+**FastAPI**, **SQLModel**, **Pydantic**, **Aiogram 3**, **PostgreSQL**, **Docker**
 
 ---
 
