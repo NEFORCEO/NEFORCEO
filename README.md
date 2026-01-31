@@ -13,17 +13,17 @@
 
 ## 🛠 Tech Stack
 
-### Backend
+### 💻 Backend
 - **FastAPI**, Flask  
 - **SQLModel**, **Pydantic**
 
-### Bots
+### 🤖 Bots
 - **Aiogram 3.x**
 
-### Data
+### 💼 Data
 - **PostgreSQL**, Redis
 
-### Infrastructure
+### 📦 Infrastructure
 - **Docker**, Nginx
 
 ---
