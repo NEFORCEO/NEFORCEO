@@ -23,7 +23,7 @@ Developing useful products for a wide audience
 ---
 
 ## 🔗 Contacts
-- 🌐 [Portfolio](https://neforceo.github.io/NEFORDEV/)
+- 🌐 [Portfolio](https://neforceo.ilnazik.dev)
 - 💬 [Telegram](https://t.me/NEFORCEO)
 - 🧠 [GitHub](https://github.com/NEFORCEO)
 
