@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://neforceo.ilnazik.dev">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-neforceo.ilnazik.dev-0A66C2?style=for-the-badge"/>
+  <a href="https://www.sudoteach.tech">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-sudoteach.tech-0A66C2?style=for-the-badge"/>
   </a>
   &nbsp;
   <a href="https://t.me/NEFORCEO">
