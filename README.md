@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDEE9,100:B5FFFC&height=200&section=header&text=Nikita%20Nefor&fontSize=42&fontColor=4a4a6a&fontAlignY=38&desc=Python%20Backend%20%26%20Telegram%20Bot%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDEE9,100:B5FFFC&height=200&section=header&text=Nikita%20Nefor&fontSize=42&fontColor=4a4a6a&fontAlignY=38&desc=Python%20Backend%20%2B%20Telegram%20Bot%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=B593F5&center=true&vCenter=true&width=600&lines=Async+Python+backends+%F0%9F%90%8D;FastAPI+%2B+Aiogram+3+%2B+PostgreSQL;Clean+code%2C+real+impact+%E2%9C%A8" alt="Typing SVG"/>
 
-<a href="https://www.sudoteach.tech"><img src="https://img.shields.io/badge/🌐_Portfolio-sudoteach.tech-B593F5?style=for-the-badge&labelColor=2b2b40"/></a>
+<a href="https://www.sudoteach.tech"><img src="https://img.shields.io/badge/Portfolio-sudoteach.tech-B593F5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2b2b40"/></a>
 <a href="https://t.me/NEFORCEO"><img src="https://img.shields.io/badge/Telegram-NEFORCEO-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2b2b40"/></a>
 <a href="https://github.com/NEFORCEO"><img src="https://img.shields.io/badge/GitHub-NEFORCEO-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2b2b40"/></a>
 
@@ -12,23 +12,23 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### 👋 About me
+### <img src="https://api.iconify.design/mdi:hand-wave.svg?color=%23B593F5&height=22" valign="middle"/> About me
 
 Python developer building backends and Telegram bots on an async stack: **FastAPI** for APIs, **Aiogram 3** for bots, **PostgreSQL** for data, **Docker** to ship it all. I like simple code that actually works.
 
-### 🛠 Tech Stack
+### <img src="https://api.iconify.design/mdi:tools.svg?color=%23B593F5&height=22" valign="middle"/> Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git,linux,kubernetes" />
 </p>
 
-### 🚀 Featured project
+### <img src="https://api.iconify.design/mdi:rocket-launch.svg?color=%23B593F5&height=22" valign="middle"/> Featured project
 
 **[fashttp](https://github.com/ndugram/fashttp)** — a lightweight async HTTP library, built for speed and simplicity.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### 📊 GitHub Stats
+### <img src="https://api.iconify.design/mdi:chart-box-outline.svg?color=%23B593F5&height=22" valign="middle"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NEFORCEO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
