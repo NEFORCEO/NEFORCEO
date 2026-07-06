@@ -24,7 +24,7 @@ Python developer building backends and Telegram bots on an async stack: **FastAP
 
 ### <img src="https://api.iconify.design/fluent-emoji:rocket.svg?height=26" valign="middle"/> Featured project
 
-**[fashttp](https://github.com/ndugram/fashttp)** — a lightweight async HTTP library, built for speed and simplicity.
+**[fasthttp](https://github.com/ndugram/fasthttp)** — a lightweight async HTTP library, built for speed and simplicity.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
