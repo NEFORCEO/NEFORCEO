@@ -12,23 +12,23 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### <img src="https://api.iconify.design/mdi:hand-wave.svg?color=%23B593F5&height=22" valign="middle"/> About me
+### <img src="https://api.iconify.design/fluent-emoji:waving-hand.svg?height=26" valign="middle"/> About me
 
 Python developer building backends and Telegram bots on an async stack: **FastAPI** for APIs, **Aiogram 3** for bots, **PostgreSQL** for data, **Docker** to ship it all. I like simple code that actually works.
 
-### <img src="https://api.iconify.design/mdi:tools.svg?color=%23B593F5&height=22" valign="middle"/> Tech Stack
+### <img src="https://api.iconify.design/fluent-emoji:hammer-and-wrench.svg?height=26" valign="middle"/> Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git,linux,kubernetes" />
 </p>
 
-### <img src="https://api.iconify.design/mdi:rocket-launch.svg?color=%23B593F5&height=22" valign="middle"/> Featured project
+### <img src="https://api.iconify.design/fluent-emoji:rocket.svg?height=26" valign="middle"/> Featured project
 
 **[fashttp](https://github.com/ndugram/fashttp)** — a lightweight async HTTP library, built for speed and simplicity.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### <img src="https://api.iconify.design/mdi:chart-box-outline.svg?color=%23B593F5&height=22" valign="middle"/> GitHub Stats
+### <img src="https://api.iconify.design/fluent-emoji:bar-chart.svg?height=26" valign="middle"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NEFORCEO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
