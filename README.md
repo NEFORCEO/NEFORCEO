@@ -14,7 +14,7 @@
 
 ### 👋 About me
 
-Python-разработчик, пишу бэкенды и Telegram-ботов на асинхронном стеке: **FastAPI** для API, **Aiogram 3** для ботов, **PostgreSQL** для данных, **Docker** чтобы всё это уехало в прод. Люблю простой код, который реально работает.
+Python developer building backends and Telegram bots on an async stack: **FastAPI** for APIs, **Aiogram 3** for bots, **PostgreSQL** for data, **Docker** to ship it all. I like simple code that actually works.
 
 ### 🛠 Tech Stack
 
@@ -24,15 +24,15 @@ Python-разработчик, пишу бэкенды и Telegram-ботов н
 
 ### 🚀 Featured project
 
-**[fashttp](https://github.com/ndugram/fashttp)** — лёгкая async HTTP-библиотека, сделана для скорости и простоты.
+**[fashttp](https://github.com/ndugram/fashttp)** — a lightweight async HTTP library, built for speed and simplicity.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NEFORCEO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEFORCEO&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NEFORCEO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NEFORCEO&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
