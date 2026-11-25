@@ -10,29 +10,27 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+### 👋 About me
 
-### <img src="https://api.iconify.design/fluent-emoji:waving-hand.svg?height=26" valign="middle"/> About me
+Python developer building async backends and Telegram bots: **FastAPI** for APIs, **Aiogram 3** for bots, **PostgreSQL** for data, **Docker** to ship it. I value simple code that works and is easy to maintain.
 
-Python developer building backends and Telegram bots on an async stack: **FastAPI** for APIs, **Aiogram 3** for bots, **PostgreSQL** for data, **Docker** to ship it all. I like simple code that actually works.
-
-### <img src="https://api.iconify.design/fluent-emoji:hammer-and-wrench.svg?height=26" valign="middle"/> Tech Stack
+### 🛠 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git,linux,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,docker,git,linux,kubernetes" />
 </p>
 
-### <img src="https://api.iconify.design/fluent-emoji:rocket.svg?height=26" valign="middle"/> Featured project
+### 🚀 Featured projects
 
-**[fasthttp](https://github.com/ndugram/fasthttp)** — a lightweight async HTTP library, built for speed and simplicity.
+- **[fasthttp](https://github.com/ndugram/fasthttp)** — ⚡ async HTTP client with route-based requests and expressive logging. Published on PyPI as `fasthttp-client`.
+- **[djo](https://github.com/NEFORCEO/djo)** — static analysis for Django APIs: generates OpenAPI by reading your code, no decorators or registration needed.
+- **[django-pydantic](https://github.com/NEFORCEO/django-pydantic)** — instantiate Pydantic models directly from a Django `HttpRequest` for request validation.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-### <img src="https://api.iconify.design/fluent-emoji:bar-chart.svg?height=26" valign="middle"/> GitHub Stats
+### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NEFORCEO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NEFORCEO&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NEFORCEO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEFORCEO&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -44,3 +42,4 @@ Python developer building backends and Telegram bots on an async stack: **FastAP
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B5FFFC,100:FFDEE9&height=120&section=footer" width="100%"/>
 
 </div>
+
