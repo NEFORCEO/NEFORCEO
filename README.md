@@ -10,23 +10,23 @@
 
 </div>
 
-### 👋 About me
+### <img src="https://api.iconify.design/lucide/user.svg?color=%23b593f5" width="22" height="22" align="absmiddle" /> About me
 
 Python developer building async backends and Telegram bots: **FastAPI** for APIs, **Aiogram 3** for bots, **PostgreSQL** for data, **Docker** to ship it. I value simple code that works and is easy to maintain.
 
-### 🛠 Tech stack
+### <img src="https://api.iconify.design/lucide/wrench.svg?color=%232ca5e0" width="22" height="22" align="absmiddle" /> Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,docker,git,linux,kubernetes" />
 </p>
 
-### 🚀 Featured projects
+### <img src="https://api.iconify.design/lucide/rocket.svg?color=%23b593f5" width="22" height="22" align="absmiddle" /> Featured projects
 
 - **[fasthttp](https://github.com/ndugram/fasthttp)** — ⚡ async HTTP client with route-based requests and expressive logging. Published on PyPI as `fasthttp-client`.
 - **[djo](https://github.com/NEFORCEO/djo)** — static analysis for Django APIs: generates OpenAPI by reading your code, no decorators or registration needed.
 - **[django-pydantic](https://github.com/NEFORCEO/django-pydantic)** — instantiate Pydantic models directly from a Django `HttpRequest` for request validation.
 
-### 📊 GitHub stats
+### <img src="https://api.iconify.design/lucide/chart-column.svg?color=%232ca5e0" width="22" height="22" align="absmiddle" /> GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NEFORCEO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -42,4 +42,3 @@ Python developer building async backends and Telegram bots: **FastAPI** for APIs
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B5FFFC,100:FFDEE9&height=120&section=footer" width="100%"/>
 
 </div>
-
